@@ -2,5 +2,5 @@ On the Fetch data page add the ability to click a button and get the current dat
 
 Every time the button is clicked a list should be added to.
 
-Add ability to clear the list.
+Include ability to clear the list.
 
